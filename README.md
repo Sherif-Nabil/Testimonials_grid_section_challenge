@@ -22,11 +22,15 @@ Users should be able to:
 
 ### Screenshot
 - Desktop
-![](./ScreenShots/Screenshot_Desktop.png) 
-- Mobile
-![](./ScreenShots/Screenshot_Mobile.png)
+---
+![](./ScreenShots/Screenshot_Desktop.png)
 - Tablet
+---
 ![](./ScreenShots/Screenshot_Tablet.png)
+- Mobile
+---
+![](./ScreenShots/Screenshot_Mobile.png)
+
 
 ### Links
 
